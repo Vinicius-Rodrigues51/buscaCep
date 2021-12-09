@@ -38,3 +38,14 @@ input {
 .uf {
     width:20%;
 }
+
+.erro {
+    color: red;
+    font-size: 24px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#cep.ativo {
+    border: 1px solid red;   
+}
